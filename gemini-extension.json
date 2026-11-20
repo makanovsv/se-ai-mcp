@@ -1,0 +1,11 @@
+{
+  "name": "se-ai",
+  "version": "1.0.0",
+  "description": "Medical equipment troubleshooting: answers from service manuals and repair cases, with a source on every answer.",
+  "mcpServers": {
+    "se-ai": {
+      "httpUrl": "https://api.serviceengineer.academy/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

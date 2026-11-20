@@ -1,0 +1,1 @@
+Use the se-ai tools for questions about faults on medical equipment (ultrasound, anaesthesia, ventilators, monitors, X-ray, CT, MRI, lab analysers). Pass the answer on with its record refs like [K123] and trust labels. Never invent part numbers; use search_parts to look up part numbers.
